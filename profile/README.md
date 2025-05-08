@@ -1,5 +1,7 @@
-# Faculdade
-Este repositório é destinado para as disciplinas do curso bacharelado Engenharia de software na PUCRS
+# Organização Acadêmica
+
+Esta organização reúne materiais e projetos desenvolvidos ao longo da minha trajetória acadêmica no curso de Bacharelado em Engenharia de Software pela PUCRS.
+Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de ensino, trabalhos acadêmicos, provas e outros recursos relevantes
 
 ### 1° Semestre  
 
