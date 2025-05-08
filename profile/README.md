@@ -7,12 +7,12 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 | **Disciplina**                                  |
 |-------------------------------------------------|
-| Cálculo I                                       |
-| Formação do Empreendedor                        |
-| Fundamentos de Programação                      |
-| Introdução a Computação                         |
-| Introdução a Engenharia de Software             |
-| Matemática Discreta                             |
+| [Cálculo I](https://github.com/Augusto-Baldino-Pucrs/Calculo_I)                                       |
+| [Formação do Empreendedor](https://github.com/Augusto-Baldino-Pucrs/Formacao_do_Empreendedor)                        |
+| [Fundamentos de Programação](https://github.com/Augusto-Baldino-Pucrs/Fundamentos_de_Programacao)                      |
+| [Introdução a Computação](https://github.com/Augusto-Baldino-Pucrs/Introducao_a_Computacao)                    |
+| [Introdução a Engenharia de Software](https://github.com/Augusto-Baldino-Pucrs/Introducao_a_Engenharia_de_Software)             |
+| [Matemática Discreta](https://github.com/Augusto-Baldino-Pucrs/Matematica_Discreta)                             |
 
 ### 2° Semestre  
 
