@@ -18,12 +18,12 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 | **Disciplina**                                  |
 |-------------------------------------------------|
-| Banco de Dados I                                |
-| Engenharia de Requisitos                        |
-| Fundamentos de Sistemas Computacionais          |
-| Gerenciamento de Configuração de Software       |
-| Lógica de Programação                           |
-| Programação Orientada a Objetos                 |
+| [Banco de Dados I](https://github.com/Augusto-Baldino-Pucrs/Banco_de_Dados_I)                               |
+| [Engenharia de Requisitos](https://github.com/Augusto-Baldino-Pucrs/Engenharia_de_Requisitos)                        |
+| [Fundamentos de Sistemas Computacionais](https://github.com/Augusto-Baldino-Pucrs/Fundamentos_de_Sistemas_Computacionais)          |
+| [Gerenciamento de Configuração de Software](https://github.com/Augusto-Baldino-Pucrs/Gerenciamento_de_Configuracao_de_Software)       |
+| [Lógica de Programação](https://github.com/Augusto-Baldino-Pucrs/Logica_de_Programacao)                           |
+| [Programação Orientada a Objetos](https://github.com/Augusto-Baldino-Pucrs/Programacao_Orientada_a_Objetos)                 |
 
 ### 3° Semestre  
 
