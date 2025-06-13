@@ -29,12 +29,12 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 | **Disciplina**                                  |
 |-------------------------------------------------|
-| Ages I                                          |
-| Algoritmos e Estrutura de Dados I               |
-| Banco de dados II                               |
-| Linguagens Automatos e Computação               |
-| Probabilidade e estatística                     |
-| Processos de Software                           |
+| [Ages I](https://github.com/Augusto-Baldino-Pucrs/Ages_I)                                          |
+| [Algoritmos e Estrutura de Dados I](https://github.com/Augusto-Baldino-Pucrs/Algoritmos_e_Estrutura_de_Dados_I)               |
+| [Banco de dados II](https://github.com/Augusto-Baldino-Pucrs/Banco_de_Dados_II)                               |
+| [Linguagens Automatos e Computação](https://github.com/Augusto-Baldino-Pucrs/Linguagens_Automatos_e_Computacao)               |
+| [Probabilidade e estatística](https://github.com/Augusto-Baldino-Pucrs/Probabilidade_e_Estatistica)                     |
+| [Processos de Software](https://github.com/Augusto-Baldino-Pucrs/Processos_de_Software)                           |
 
 ### 4° Semestre  
 
