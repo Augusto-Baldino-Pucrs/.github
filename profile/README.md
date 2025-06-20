@@ -5,7 +5,7 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 ### 1° Semestre  
 
-| **Disciplina**                                  |
+| **Disciplinas**                                  |
 |-------------------------------------------------|
 | [Cálculo I](https://github.com/Augusto-Baldino-Pucrs/Calculo_I)                                       |
 | [Formação do Empreendedor](https://github.com/Augusto-Baldino-Pucrs/Formacao_do_Empreendedor)                        |
@@ -16,7 +16,7 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 ### 2° Semestre  
 
-| **Disciplina**                                  |
+| **Disciplinas**                                  |
 |-------------------------------------------------|
 | [Banco de Dados I](https://github.com/Augusto-Baldino-Pucrs/Banco_de_Dados_I)                               |
 | [Engenharia de Requisitos](https://github.com/Augusto-Baldino-Pucrs/Engenharia_de_Requisitos)                        |
@@ -27,7 +27,7 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 ### 3° Semestre  
 
-| **Disciplina**                                  |
+| **Disciplinas**                                  |
 |-------------------------------------------------|
 | [Ages I](https://github.com/Augusto-Baldino-Pucrs/Ages_I)                                          |
 | [Algoritmos e Estrutura de Dados I](https://github.com/Augusto-Baldino-Pucrs/Algoritmos_e_Estrutura_de_Dados_I)               |
@@ -38,18 +38,17 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 ### 4° Semestre  
 
-| **Disciplina**                                  |
+| **Disciplinas**                                  |
 |-------------------------------------------------|
-| Algoritmos e Estrutura de dados II              |
-| Artes e Linguagens Visuais                      |
-| Experiência de Usuário                          |
-| Fundamentos de Sistemas paralelos e Distribuidos|
-| Projeto e Arquitetura de Software               |
-| Verificação e Validação de Software             |
+| [Algoritmos e Estrutura de dados II](https://github.com/Augusto-Baldino-Pucrs/Algoritmos_e_Estrutura_de_Dados_II)              |
+| [Experiência de Usuário](https://github.com/Augusto-Baldino-Pucrs/Experiencia_de_Usuario)                          |
+| [Fundamentos de Sistemas paralelos e Distribuidos](https://github.com/Augusto-Baldino-Pucrs/Fundamentos_de_Sistemas_Paralelos_e_Distribuidos)|
+| [Projeto e Arquitetura de Software](https://github.com/Augusto-Baldino-Pucrs/Projeto_e_Arquitetura_de_Software)               |
+| [Verificação e Validação de Software](https://github.com/Augusto-Baldino-Pucrs/Verificacao_e_Validacao_de_Software)             |
 
 ### 5° Semestre  
 
-| **Disciplina**                                  |
+| **Disciplinas**                                  |
 |-------------------------------------------------|
 | Ages II                                         |
 | Construção de Software                          |
@@ -59,7 +58,7 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 ### 6° Semestre  
 
-| **Disciplina**                                  |
+| **Disciplinas**                                  |
 |-------------------------------------------------|
 | Computação e Solução de Problemas               |
 | Ética e Cidadania                               |
@@ -68,7 +67,7 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 ### 7° Semestre  
 
-| **Disciplina**                                  |
+| **Disciplinas**                                  |
 |-------------------------------------------------|
 | Aprendizado Profundo I                          |
 | Projeto e Otimização de Algoritmos              |
