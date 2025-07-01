@@ -50,11 +50,11 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 | **Disciplinas**                                  |
 |-------------------------------------------------|
-| Ages II                                         |
-| Construção de Software                          |
-| Inteligência Artificial                         |
-| Psicologia e Gestão de Pessoas em TI            |
-| Sistemas Operacionais                           |
+| [Ages II](https://github.com/Augusto-Baldino-Pucrs/Ages_II)                                         |
+| [Construção de Software](https://github.com/Augusto-Baldino-Pucrs/Construcao_de_Software)                          |
+| [Inteligência Artificial](https://github.com/Augusto-Baldino-Pucrs/Inteligencia_Artificial)                         |
+| [Psicologia e Gestão de Pessoas em TI](https://github.com/Augusto-Baldino-Pucrs/Psicologia_e_Gestao_de_Pessoas_em_TI)            |
+| [Sistemas Operacionais](https://github.com/Augusto-Baldino-Pucrs/Sistemas_Operacionais)                           |
 
 ### 6° Semestre  
 
