@@ -69,11 +69,11 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 | **Disciplinas**                                  |
 |-------------------------------------------------|
-| Aprendizado Profundo I                          |
-| Projeto e Otimização de Algoritmos              |
-| Gerenciamento de Projetos                       |
-| Fundamentos de Redes de Computadores            |
-| Programação de Software Básico                  |
-| Melhoria de Processos de Software               |
+| [Aprendizado Profundo I](https://github.com/Augusto-Baldino-Pucrs/Aprendizado_Profundo_I)                          |
+| [Projeto e Otimização de Algoritmos](https://github.com/Augusto-Baldino-Pucrs/Projeto_e_Otimizacao_de_Algoritmos)              |
+| [Gerenciamento de Projetos](https://github.com/Augusto-Baldino-Pucrs/Gerenciamento_de_Projetos)                       |
+| [Fundamentos de Redes de Computadores](https://github.com/Augusto-Baldino-Pucrs/Fundamentos_de_Redes_de_Computadores)            |
+| [Programação de Software Básico](https://github.com/Augusto-Baldino-Pucrs/Programacao_de_Software_Basico)                  |
+| [Melhoria de Processos de Software](https://github.com/Augusto-Baldino-Pucrs/Melhoria_de_Processos_de_Software)               |
 
 
