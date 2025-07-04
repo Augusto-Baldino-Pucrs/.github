@@ -60,10 +60,10 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 
 | **Disciplinas**                                  |
 |-------------------------------------------------|
-| Computação e Solução de Problemas               |
-| Ética e Cidadania                               |
-| Laboratório de Redes de Computadores            |
-| Planejamento e Custos para Engenharia           |
+| [Computação e Solução de Problemas](https://github.com/Augusto-Baldino-Pucrs/Computacao_e_Solucao_de_Problemas)               |
+| [Ética e Cidadania](https://github.com/Augusto-Baldino-Pucrs/Etica_e_Cidadania)                               |
+| [Laboratório de Redes de Computadores](https://github.com/Augusto-Baldino-Pucrs/Laboratorio_de_Redes_de_Computadores)            |
+| [Planejamento e Custos para Engenharia](https://github.com/Augusto-Baldino-Pucrs/Planejamento_e_Custos_para_Engenharia)           |
 
 ### 7° Semestre  
 
