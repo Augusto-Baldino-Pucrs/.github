@@ -83,8 +83,8 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 | [Coleta, Preparação e Análise de Dados](https://github.com/Augusto-Baldino-Pucrs/Coleta_Preparacao_e_Analise_de_Dados)                          |
 | [Infraestrutura Para Gestão de Dados](https://github.com/Augusto-Baldino-Pucrs/Infraestrutura_Para_Gestao_de_Dados)              |
 | [Aprendizado de Máquina](https://github.com/Augusto-Baldino-Pucrs/Aprendizado_de_Maquina)                       |
-| [Aprendizado Profundo II](https://github.com/Augusto-Baldino-Pucrs/Aprendizado_Profundo_II)            |
+| [Linguagens de Programação](https://github.com/Augusto-Baldino-Pucrs/Aprendizado_Profundo_II)            |
 | [AGES III](https://github.com/Augusto-Baldino-Pucrs/Agencia_Experimental_de_Engenharia_de_Software_III)                  |
-| [Humanismo E Cultura Religiosa](https://github.com/Augusto-Baldino-Pucrs/Humanismo_e_Cultura_Religiosa)               |
+| [Infraestrutura de Ti](https://github.com/Augusto-Baldino-Pucrs/Humanismo_e_Cultura_Religiosa)               |
 
 
