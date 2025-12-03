@@ -76,4 +76,12 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 | [Programação de Software Básico](https://github.com/Augusto-Baldino-Pucrs/Programacao_de_Software_Basico)                  |
 | [Melhoria de Processos de Software](https://github.com/Augusto-Baldino-Pucrs/Melhoria_de_Processos_de_Software)               |
 
+### 7° Semestre  
+
+| **Disciplinas**                                  |
+|-------------------------------------------------|
+| [Coleta, Preparação e Análise de Dados](https://github.com/Augusto-Baldino-Pucrs/Coleta_Preparacao_e_Analise_de_Dados)                          |
+| [Aprendizado Profundo II](https://github.com/Augusto-Baldino-Pucrs/Aprendizado_Profundo_II)              |
+| [Aprendizado de Máquina](https://github.com/Augusto-Baldino-Pucrs/Aprendizado_de_Maquina)                       |
+
 
