@@ -84,6 +84,10 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 | [Aprendizado Profundo II](https://github.com/Augusto-Baldino-Pucrs/Aprendizado_Profundo_II)              |
 | [Aprendizado de Máquina](https://github.com/Augusto-Baldino-Pucrs/Aprendizado_de_Maquina)                       |
 | [Infraestrutura de TI](https://github.com/Augusto-Baldino-Pucrs/Infraestrutura_de_Ti)                       |
+| [Infraestrutura para Gestão de Dados](https://github.com/Augusto-Baldino-Pucrs/Infraestrutura_Para_Gestao_de_Dados.git)                       |
+| [Ages III]()                       |
+
+
 
 
 
