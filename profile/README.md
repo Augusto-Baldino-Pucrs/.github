@@ -87,6 +87,17 @@ Aqui, você encontrará conteúdos como slides de aula, bibliografia, planos de 
 | [Infraestrutura para Gestão de Dados](https://github.com/Augusto-Baldino-Pucrs/Infraestrutura_Para_Gestao_de_Dados.git)                       |
 | [Ages III]()                       |
 
+### 9° Semestre  
+
+| **Disciplinas**                                  |
+|-------------------------------------------------|
+| [Humanismo e Cultura Religiosa](https://github.com/Augusto-Baldino-Pucrs/Coleta_Preparacao_e_Analise_de_Dados)|
+| [Métodos Formais para Computação](https://github.com/Augusto-Baldino-Pucrs/Metodos_Formais_para_Computacao.git)              |
+| [Engenharia de Software Experimental](https://github.com/Augusto-Baldino-Pucrs/Engenharia_de_Software_Experimental)                  |
+| [Linguagens de Programação](https://github.com/Augusto-Baldino-Pucrs/Linguagens_de_Programacao)                       |
+| [Engenharia e Gestão do Conhecimento](https://github.com/Augusto-Baldino-Pucrs/Engenharia_e_Gestao_do_Conhecimento)           |
+
+
 
 
 
